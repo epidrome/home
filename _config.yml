@@ -1,5 +1,5 @@
 # Theme
-remote_theme: epidrome/front-cover
+remote_theme: epidrome/cover-card
 
 # Site Settings
 name: 'epidrome'
@@ -7,8 +7,6 @@ description: 'surfer & scholar.'
 url: ''
 
 
-# Delete the lines you don't need
-# about 5 elements are recomended
 github_username: 'epidrome'
 keybase_username: 'epidrome'
 telegram_username: 'epidrome'
@@ -16,14 +14,9 @@ telegram_username: 'epidrome'
 
 avatar: yes
 avatar_img_path: 'assets/images/avatar.jpg'
-# You can link to your GitHub image. That way it will get updated
-# automatically whenever you change your GitHub profile picture
-# avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
-
 
 front_img: yes
 front_img_path: 'assets/images/background.jpg'
-
 
 favicon_img: yes
 favicon_img_path: 'assets/images/favicon.ico'
@@ -32,21 +25,5 @@ favicon_img_path: 'assets/images/favicon.ico'
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-
-# Build settings
-markdown: kramdown
 plugins:
   - jekyll-remote-theme
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
