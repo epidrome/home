@@ -4,12 +4,11 @@ remote_theme: epidrome/cover-card
 # Site Settings
 name: 'epidrome'
 description: 'surfer & scholar.'
-url: ''
 
 
-github_username: 'epidrome'
-keybase_username: 'epidrome'
-telegram_username: 'epidrome'
+github: 'epidrome'
+keybase: 'epidrome'
+telegram: 'epidrome'
 
 
 avatar: yes
