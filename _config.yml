@@ -14,3 +14,7 @@ telegram: 'epidrome'
 avatar: 'avatar.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
+
+# Build settings
+plugins:
+  - jekyll-remote-theme
