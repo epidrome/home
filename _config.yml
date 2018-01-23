@@ -2,7 +2,7 @@
 remote_theme: epidrome/cover-card
 
 # Site Settings
-name: 'epidrome'
+title: 'epidrome'
 description: 'surfer & scholar.'
 
 
