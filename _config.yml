@@ -13,10 +13,3 @@ telegram: 'epidrome'
 avatar: 'avatar.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
-
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-plugins:
-  - jekyll-remote-theme
