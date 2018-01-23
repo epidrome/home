@@ -5,11 +5,12 @@ remote_theme: epidrome/cover-card
 title: 'epidrome'
 description: 'surfer & scholar.'
 
-
+# Online profiles
 github: 'epidrome'
 keybase: 'epidrome'
 telegram: 'epidrome'
 
+# Images
 avatar: 'avatar.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
