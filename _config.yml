@@ -14,7 +14,3 @@ scholar: 'http://scholar.epidro.me'
 avatar: 'avatar.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
-
-# Build settings
-plugins:
-  - jekyll-remote-theme
