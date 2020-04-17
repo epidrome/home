@@ -1,15 +1,28 @@
 # Theme
-remote_theme: epidrome/cover-card@v0.3
+remote_theme: epidrome/cover-card
 
 # Site Settings
 title: 'epidrome'
 description: 'surfer & scholar.'
 
 # Online profiles
-tumblr: 'epidrome'
-scholar: 'http://scholar.epidro.me'
+surfer: 'surfer.epidro.me'
+scholar: 'scholar.epidro.me'
 
 # Images
 avatar: 'avatar.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
+
+social-links-order: [surfer,scholar]
+
+social-links:
+  - name: surfer 
+    url-pattern: '__USERNAME__'
+    url-scheme: 'https://'
+    icon-class: fas fa-2x fa-snowboarding
+
+  - name: scholar 
+    url-pattern: '__USERNAME__'
+    url-scheme: 'https://'
+    icon-class: fas fa-2x fa-graduation-cap
