@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Site Settings
 title: 'surfer & scholar'
-description: 'with the resistance, fighting zombies, augmenting human intellect.'
+description: 'with the resistance, augmenting human intellect.'
 
 # Online profiles
 surfer: 'surfer.epidro.me'
